@@ -1,0 +1,3 @@
+Hello, World! 
+
+This is the first file in my CS 290 Week 1 Git repo. 
